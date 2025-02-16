@@ -18,4 +18,4 @@ And the implemented logic makes them to works as a single program without duplic
 Feel free to share the ideas on improvements, to remake them for your own purposes etc.
 
 Here is an example of keyword filters in Google Sheets:
-![image](https://github.com/user-attachments/assets/27e7501e-9601-4146-ada9-7a9f1a4b5974)
+![image](https://github.com/user-attachments/assets/0f273972-e3eb-47ee-bae5-db5fef7071c2)
