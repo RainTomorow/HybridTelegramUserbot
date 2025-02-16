@@ -9,7 +9,7 @@ The main idea of this software is to combine two telegram userbot libraries:
 * [Pyrogram (I use this fork)](https://github.com/KurimuzonAkuma/pyrogram)
 
 As I live in Ukraine, I needed a bot that reads text from air raid monitoring channels and alerts me when there is a treat for my city, so I can afford Sleep.
-But neither Telethon nor Pyrogram could worked well:
+But neither Telethon nor Pyrogram could work well:
 * Telethon is very stable but have a lot of seconds delay in receiving messages, which can be quite dangerous
 * Pyrogram have great speed of message receiving, but just stops working from time to time and needs to be restarted
 
